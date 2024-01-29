@@ -6,3 +6,4 @@ Zoom Recordings for the Lectures can be found here.
 3. Lecture 3: "Game Theory" can be found [here](https://pkr.bot/lecture-3-recording)
 4. Lecture 4: "Performance" can be found [here](https://pkr.bot/lecture-4-recording)
 5. Lecture 5: "Advanced Topics" can be found [here](https://pkr.bot/lecture-5-recording)
+6. Lecture 6: "Guest: Dr. Noam Brown" can be found [here](https://pkr.bot/lecture-6-recording)
