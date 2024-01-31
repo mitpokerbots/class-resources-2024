@@ -7,3 +7,4 @@ Zoom Recordings for the Lectures can be found here.
 4. Lecture 4: "Performance" can be found [here](https://pkr.bot/lecture-4-recording)
 5. Lecture 5: "Advanced Topics" can be found [here](https://pkr.bot/lecture-5-recording)
 6. Lecture 6: "Guest: Dr. Noam Brown" can be found [here](https://pkr.bot/lecture-6-recording)
+7. Lecture 7: "Guest: GTO Wizard AI" can be found [here](https://pkr.bot/lecture-7-recording)
